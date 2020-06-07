@@ -64,6 +64,7 @@ logo = """
                                    
 \033[1;31;40m ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅๑۩BCF۩๑▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
 \033[1;32;40m ➣Author©  → Saiful MaHi
+\033[1;35;40m ➣  My Team ☣  Md junaeid Ahmad ☣  Sonjoy Das ☣  Md Kamrul Hasan
 \033[1;33;40m ➣Github   → https://github.com/GitHub890
 \033[1;34;40m ➣Facebook  → https://www.facebook.com/tur.bap.is.back.99
 \033[1;35;40m ➣☏        → +8801770246811
